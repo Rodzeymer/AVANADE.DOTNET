@@ -1,0 +1,13 @@
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.exe
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.deps.json
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.runtimeconfig.json
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.runtimeconfig.dev.json
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.dll
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\bin\Debug\netcoreapp3.1\Prática.pdb
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.csprojAssemblyReference.cache
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.AssemblyInfoInputs.cache
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.AssemblyInfo.cs
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.csproj.CoreCompileInputs.cache
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.dll
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.pdb
+C:\Users\SESMT\Desktop\DotNet AVANADE\exemplos\Prática\obj\Debug\netcoreapp3.1\Prática.genruntimeconfig.cache
